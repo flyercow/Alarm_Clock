@@ -1,4 +1,6 @@
-//Rafa, recuerda que tiene algunas cositas que mejorar, lo tengo pendiente
+// Alarm_Clock_v1.0
+// Author: Sergio Vigorra Treviño
+// e-mail: svigorra@gmail.com
 
 #include <LiquidCrystal.h>                          
 
